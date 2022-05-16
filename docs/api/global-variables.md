@@ -22,7 +22,7 @@ These JavaScript variables can be used anywhere because these variables are defi
 | `NL_RESMODE`  | Source of application resources: `bundle` or `directory`      |
 | `NL_EXTENABLED` | Returns `true` if extensions are enabled     |
 | `NL_COMMIT` | Framework binary's release commit hash     |
-| `NL_CCOMMIT` | Client librar's release commit hash     |
+| `NL_CCOMMIT` | Client library's release commit hash     |
 
 :::tip
 You can use `NL_COMMIT` and `NL_CCOMMIT` values to identify the codebase snapshot if you use nightly releases.
